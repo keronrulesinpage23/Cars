@@ -218,4 +218,4 @@ Cars is a full free version with all features and updates included. There are no
 Ready to hit the racetrack? Download Cars today for a thrilling adventure with Lightning McQueen!
 
 ---
-**Last updated:** 2026-09-20 18:03:14 UTC
+**Last updated:** 2026-09-20 21:13:40 UTC
